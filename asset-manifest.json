@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/git@github.com:LeonardoSarda/github_explore.git/static/js/main.f0d70df7.js",
+    "static/media/Logo.svg": "/git@github.com:LeonardoSarda/github_explore.git/static/media/Logo.6354bf3f4d534d499c956048439a4243.svg",
+    "static/media/Github.svg": "/git@github.com:LeonardoSarda/github_explore.git/static/media/Github.74bc5d0b1c653e796fd02ffe3ecf494a.svg",
+    "index.html": "/git@github.com:LeonardoSarda/github_explore.git/index.html",
+    "main.f0d70df7.js.map": "/git@github.com:LeonardoSarda/github_explore.git/static/js/main.f0d70df7.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f0d70df7.js"
+  ]
+}
